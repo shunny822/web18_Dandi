@@ -116,19 +116,19 @@
 <h3>📚 단디 개발 일지</h3>
 <ul>
   <li>
-    <a href="https://www.notion.so/kimyoonju/DB-cfaa6625be3842d6a41dd341bf777039?pvs=4">[Elasticsearch | 박효종] DB 데이터를 가져오는데 할게 왜이리 많죠?</a>
+    <a href="https://www.notion.so/kimyoonju/DB-cfaa6625be3842d6a41dd341bf777039?pvs=4">[Elasticsearch] DB 데이터를 가져오는데 할게 왜이리 많죠?</a>
   </li>
   <li>
-    <a href="https://velog.io/@shunny/Web-%EC%95%8C%EA%B3%A0-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%86%88...-CORS">[CORS | 최수현] 알고보면 좋은 놈 CORS</a>
+    <a href="https://velog.io/@shunny/Web-%EC%95%8C%EA%B3%A0-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%86%88...-CORS">[CORS] 알고보면 좋은 놈 CORS</a>
   </li>
   <li>
-    <a href="https://velog.io/@gimewn/useRef-%EC%99%9C-%EC%93%B0%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94">[React Portal | 김윤주] 리액트로 닥터스트레인지가 되는 법</a>
+    <a href="https://velog.io/@gimewn/useRef-%EC%99%9C-%EC%93%B0%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94">[React Portal] 리액트로 닥터스트레인지가 되는 법</a>
   </li>
   <li>
-    <a href="https://velog.io/@dohun2/Emotion%EA%B3%BC-Tailwind-CSS">[Emotion & Tailwind CSS | 이도훈] Emotion과 Tailwind CSS</a>
+    <a href="https://velog.io/@dohun2/Emotion%EA%B3%BC-Tailwind-CSS">[Emotion & Tailwind CSS] Emotion과 Tailwind CSS</a>
   </li>
   <li>
-    <a href="https://surpise.tistory.com/6">[Query Invalidation | 서종현] 이건 무효야! Query Invalidation</a>
+    <a href="https://surpise.tistory.com/6">[Query Invalidation] 이건 무효야! Query Invalidation</a>
   </li>
 </ul>
 
@@ -140,10 +140,3 @@
 <h3>🚀 인프라 구조</h3>
 <img src="https://github.com/boostcampwm2023/web18_Dandi/assets/86141652/ed822c7f-7511-4604-9d95-f4ff2568e01b" alt="인프라 구조"/>
 <br/>
-
-<h2>👨‍👨‍👧‍👧 팀원</h2>
-
-| <img src="https://github.com/boostcampwm2023/web18_Dandi/assets/86141652/2968ee75-3357-4378-ab32-202ad12bc76f" height=150 width=150 /> | <img src="https://github.com/boostcampwm2023/web18_Dandi/assets/86141652/0d3085f3-c588-4b21-98b1-bf6829793e0b" height=150 width=150 /> | <img src="https://github.com/boostcampwm2023/web18_Dandi/assets/86141652/4bd0fd8a-c94f-4175-9c1e-d75a73be5858" height=150 width=150 /> | <img src="https://github.com/boostcampwm2023/web18_Dandi/assets/86141652/06cb3533-d927-4ed1-bd8b-cddffe298e3f" height=150 width=150 /> | <img src="https://github.com/boostcampwm2023/web18_Dandi/assets/86141652/7b8fde40-bc13-4cf2-81ea-d538d69cdf82" height=150 width=150 /> |
-| :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                   BE                                                                   |                                                                   BE                                                                   |                                                                   FE                                                                   |                                                                   FE                                                                   |                                                                   FE                                                                   |
-|                                                [박효종](https://github.com/HyoJongPark)                                                |                                                 [최수현](https://github.com/shunny822)                                                 |                                                  [김윤주](https://github.com/gimewn)                                                   |                                                  [서종현](https://github.com/surpise)                                                  |                                                  [이도훈](https://github.com/dohun2)                                                   |

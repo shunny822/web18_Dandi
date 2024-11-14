@@ -32,7 +32,6 @@
 
 <b>홈</b>
 
-<img src="https://github.com/boostcampwm2023/web18_Dandi/assets/86141652/7f97bc0a-2e12-4708-94c7-5a91d9a5b5bf" alt="홈"/>
 
 <ul>
   <li>일기 작성 기록과 그날의 기분을 잔디로 확인하고, 사용자가 선택한 기간 내의 일기에 저장된 감정 정보를 확인할 수 있어요.</li>
